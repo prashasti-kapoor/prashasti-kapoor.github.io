@@ -1,0 +1,16 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Transparent background -->
+  <rect width="50" height="50" fill="none"></rect>
+
+  <!-- Python circle logo -->
+  <circle cx="12" cy="12" r="10" fill="#306998"></circle>
+  <text x="12" y="17" text-anchor="middle" font-size="10" fill="white" font-family="Arial">Py</text>
+
+  <!-- JavaScript square logo -->
+  <rect x="20" y="5" width="20" height="20" fill="#F7DF1E"></rect>
+  <text x="30" y="18" text-anchor="middle" font-size="8" fill="#000" font-family="Arial" font-weight="bold">JS</text>
+
+  <!-- R hexagon logo -->
+  <polygon points="25,30 30,35 25,40 20,40 15,35 20,30" fill="#276DC3"></polygon>
+  <text x="22.5" y="37" text-anchor="middle" font-size="6" fill="white" font-family="Arial" font-weight="bold">R</text>
+</svg>
