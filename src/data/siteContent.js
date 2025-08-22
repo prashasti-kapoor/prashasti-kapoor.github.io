@@ -3,7 +3,7 @@
 
 export const about = {
   name: 'Prashasti Kapoor',
-  avatar: '/WhatsApp Image 2025-08-19 at 13.37.46_1069b2b7.jpg', // put image in /public/
+  avatar: '/pp.jpg', // put image in /public/
   tagline: '“Engineering Excellence Through Testing.”',
   description: 'Quality Assurance Engineer | Cypress | Appium | Selenium | Postman | SDLC',
   links: {
@@ -149,7 +149,7 @@ export const education = [
     year: "July 2019 – May 2023",
     logo: "/ggct.jpeg",
     gpa: "8.3 CGPA",
-    photo: "/ggct-mates.jpg",
+    photo: "/gp.jpg",
     details: [
       "Graduated with Honors’",
     ],
