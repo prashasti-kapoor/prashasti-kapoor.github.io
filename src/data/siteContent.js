@@ -18,7 +18,7 @@ export const experience = [
   {
     title: "Associate Quality Assurance Engineer",
     company: "Jio Platform Limited",
-    logo: "public/Reliance_Jio_Logo.svg.png",
+    logo: "/jio-logo.jpg",
     duration: "December 2023 – Present",
     location: "Navi Mumbai, India",
     points: [
@@ -57,7 +57,7 @@ export const experience = [
   {
     title: "Graduate Engineer Trainee (Bond Team)",
     company: "Reliance Jio Infocomm Limited",
-    logo: "public/Reliance_Jio_Logo.svg.png",
+    logo: "/jio-logo.jpg",
     duration: "Dec 2022 – Feb 2023",
     location: "Navi Mumbai, India",
     points: [
@@ -134,7 +134,7 @@ export const projects = [
   
   {
     title: "Drakora Couture (Freelance)",
-    image: "/WhatsApp Image 2025-08-19 at 13.29.39_9c7e35b7.jpg",
+    image: "/dc-logo.jpg",
     subtitle: "QA Manager",
     description: "Developed and executed test plans and test cases for a freelance project. Utilized automation tools like Cypress to enhance test efficiency and coverage. Identified and tracked defects using Jira and Azure DevOps, collaborating closely with development teams for prompt resolution.",
     tags: ["#Freelance", "#Cypress", "#Jira", "#AzureDevOps", "#TestManagement"],
