@@ -57,7 +57,7 @@ export const experience = [
   {
     title: "Graduate Engineer Trainee (Bond Team)",
     company: "Reliance Jio Infocomm Limited",
-    logo: "/jio-logo.jpg",
+    logo: "",
     duration: "Dec 2022 – Feb 2023",
     location: "Navi Mumbai, India",
     points: [
