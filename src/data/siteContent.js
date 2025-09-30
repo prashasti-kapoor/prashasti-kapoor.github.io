@@ -57,7 +57,7 @@ export const experience = [
   {
     title: "Graduate Engineer Trainee (Bond Team)",
     company: "Reliance Jio Infocomm Limited",
-    logo: "",
+    logo: "/jio-logo.jpg",
     duration: "Dec 2022 – Feb 2023",
     location: "Navi Mumbai, India",
     points: [
@@ -134,8 +134,8 @@ export const projects = [
   
   {
     title: "Drakora Couture (Freelance)",
-    image: "/dc-logo.jpg",
-    subtitle: "QA Manager",
+    image: "",
+    subtitle: "Quality Assurance Engineer",
     description: "Developed and executed test plans and test cases for a freelance project. Utilized automation tools like Cypress to enhance test efficiency and coverage. Identified and tracked defects using Jira and Azure DevOps, collaborating closely with development teams for prompt resolution.",
     tags: ["#Freelance", "#Cypress", "#Jira", "#AzureDevOps", "#TestManagement"],
     color: "text-red-500",
