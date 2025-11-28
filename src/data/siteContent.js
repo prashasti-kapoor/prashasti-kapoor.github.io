@@ -3,7 +3,7 @@
 
 export const about = {
   name: 'Prashasti Kapoor',
-  avatar: '/dp.jpg', // put image in /public/
+  avatar: '/ppp.jpg', // put image in /public/
   tagline: '“Engineering Excellence Through Testing.”',
   description: 'Quality Assurance Engineer | Cypress | Appium | Selenium | Postman | SDLC',
   links: {
